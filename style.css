@@ -1,0 +1,169 @@
+body{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: burlywood;
+}
+.container{
+    width: 99%;
+	position: static;
+    float: left;
+}
+.header{
+    width: 100%;
+    background-color:palegreen;
+    float: left;
+ } 
+
+.button{
+    background-color: white;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align:center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 50px;
+}
+
+
+.header  h1{
+	color: black;
+	font-family: Arial;
+	text-align: center;
+}
+.contentl{
+    width: 50%;
+	height: 100%;
+    background-color:burlywood;
+    float: left;
+    font-family: constantia;
+    text-align: center; 
+}
+    .contentm{
+    width: 35%;
+	height: 100%;
+    background-color:burlywood;
+    float: left;
+    font-family: constantia;
+    text-align: center;
+ } 
+ .contentr{
+    width: 50%;
+	height: 100%;
+    background-color:burlywood;
+    float: left;
+    font-family: constantia;
+    text-align: center;
+ } 
+
+ .contenta{
+    width: 100%;
+	height: 100%;
+    background-color:burlywood;
+    float: left;
+    font-family: constantia;
+    text-align: left;
+ } 
+
+ 
+ .contentb{
+    width: 50%;
+	height: 100%;
+    background-color:burlywood;
+    float: left;
+    font-family: constantia;
+    text-align: center;  
+ }
+ .contentc{
+    width: 100%;
+	height: 100%;
+    background-color:burlywood;
+    float: left;
+    font-family: constantia;
+    text-align: left;  
+ }
+ .contentd{
+    width: 50%;
+	height: 100%;
+    background-color:burlywood;
+    float: left;
+    font-family: constantia;
+    text-align: center;  
+ }
+ .contente{
+    width: 50%;
+	height: 100%;
+    background-color:burlywood;
+    float: left;
+    font-family: constantia;
+    text-align: center;  
+ }
+ .contentf{
+    width: 50%;
+	height: 100%;
+    background-color:burlywood;
+    float: right;
+    font-family: constantia;
+    text-align: center; 
+ }
+ .contentg{
+    width: 100%;
+	height: 100%;
+    background-color:burlywood;
+    float: center;
+    font-family: constantia;
+    text-align: center; 
+}
+ .footer{
+    width:100%;
+	height: 20%;
+    background-color:palegreen;
+    float: left;
+    
+ } 
+.banner{
+    width: 100%;
+    height: 30%;
+    background-color:palegreen;
+    float: left;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: palegreen;
+}
+.contentimage img {
+width: 100%;
+height: 100% 
+}
+.contentimage {
+    width:100%;
+    background-color: burlywood;
+}
+form{
+padding: 15px;
+}
+form label{
+display: block; 
+margin-top: 10px;
+}
+form textarea{
+    width: 100%;
+    height: 50%;
+}
